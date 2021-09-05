@@ -10,6 +10,7 @@ public class Main {
 		System.out.print("이름 입력:");
 		String str=s.next();
 		System.out.print(str+"님 환영합니다.");//dd
+		//access 토큰 만들 때 repo 에 체크를 하지 않았더니 에러가 떠 한참을 해맸네요 .
 	}
 
 }
