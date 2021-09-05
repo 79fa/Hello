@@ -9,7 +9,7 @@ public class Main {
 		System.out.print("Hello World\n");
 		System.out.print("이름 입력:");
 		String str=s.next();
-		System.out.print(str+"님 환영합니다.");
+		System.out.print(str+"님 환영합니다.");//d
 	}
 
 }
